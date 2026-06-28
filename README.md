@@ -53,7 +53,7 @@ app/src/main/java/com/myvpn/client/
 - Android 7.0 (API 24)
 - Android Studio Iguana 2023.2.1+
 - Kotlin 1.9.20+
-- NDK (для сборки OpenVPN native)
+
 
 ## Лицензия
 
